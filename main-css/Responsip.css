@@ -1,0 +1,124 @@
+/* =============================================
+max-width  1200px responsip css starts 
+============================================= */
+@media screen and (max-width: 1200px) {
+  .succesfull-taitle {
+    width: 52%;
+  }
+}
+
+/* =============================================
+max-width  992px responsip css starts 
+============================================= */
+@media screen and (max-width: 992px) {
+  /* .courses-taitel-wraper .courses-contant {
+    width: 100% !important;
+  } */
+  .bg-lear img {
+    height: 500px;
+  }
+  .img-text-caption .img-text-wraper {
+    width: 70%;
+  }
+  .img-text-wraper h1 {
+    font-size: 45px;
+  }
+  .section-taitle-contant {
+    width: 80%;
+  }
+  .exploer-section-wreper h1 {
+    font-size: 30px;
+  }
+  .succesfull-taitle {
+    width: 70%;
+  }
+
+  .accordion-wraper {
+    width: 95%;
+  }
+}
+
+/* =============================================
+max-width  768px responsip css starts 
+============================================= */
+@media screen and (max-width: 768px) {
+  .bg-lear img {
+    height: 400px;
+  }
+
+  .img-text-wraper h1 {
+    font-size: 40px;
+  }
+  .section-taitle-contant {
+    width: 100%;
+  }
+  .section-taitle-contant h1 {
+    font-size: 30px;
+  }
+  .succesfull-taitle {
+    width: 60%;
+  }
+  .succesfull-taitle h1 {
+    font-size: 30px;
+  }
+  .succesfull-taitle {
+    width: 90%;
+  }
+  .accordion-wraper {
+    width: 95%;
+  }
+}
+
+/* =============================================
+max-width  576px responsip css starts 
+============================================= */
+@media screen and (max-width: 576px) {
+  #header .d-xs-none {
+    display: none;
+  }
+  .small {
+    font-size: 14px;
+  }
+  .bg-lear img {
+    height: 265px;
+  }
+
+  .img-text-wraper h1 {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .carousel-indicators [data-bs-target] {
+    display: none;
+  }
+  .section-taitle-contant {
+    width: 80%;
+  }
+  .section-taitle-contant h1 {
+    font-size: 18px;
+  }
+  .exploer-section-wreper img {
+    width: 335px;
+    height: 224px;
+    margin: auto;
+    display: block;
+  }
+  .succesfull-taitle {
+    width: 80%;
+    margin: auto;
+  }
+  .accordion-wraper {
+    width: 90%;
+  }
+}
+
+/* =============================================
+max-width  300px responsip css starts 
+============================================= */
+@media screen and (max-width: 400px) {
+  .img-text-caption .img-text-wraper {
+    width: 100%;
+  }
+  .section-taitle-contant {
+    width: 100%;
+  }
+}
